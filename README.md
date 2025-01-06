@@ -24,3 +24,15 @@
 - utils.py
   - error evaluation function
   - check assumption functions: strong Slater's constraint, parameter assumption....
+
+
+## Cite our paper:
+@ARTICLE{9762539,
+  author={Wu, Xuyang and Wang, He and Lu, Jie},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={Distributed Optimization With Coupling Constraints}, 
+  year={2023},
+  volume={68},
+  number={3},
+  pages={1847-1854},
+  doi={10.1109/TAC.2022.3169955}}
